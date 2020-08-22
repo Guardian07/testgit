@@ -5,6 +5,3 @@
 5555
 6666
 7654
-new line!
-test push!
-modify fa!
